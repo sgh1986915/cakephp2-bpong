@@ -1,0 +1,1 @@
+<div class="message-notice" id="flashMessage"><?php echo $message ?>SU</div>

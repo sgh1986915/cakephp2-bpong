@@ -1,0 +1,191 @@
+2009-07-08 09:45  daniel.verner
+
+	* controllers/cpamf_controller.php,
+	  vendors/amfphp/core/amf/app/Gateway.php, version.txt: added
+	  comments
+
+2009-07-07 11:16  daniel.verner
+
+	* controllers/components/amf_auth.php,
+	  vendors/amfphp/core/cakeamf/app/CakeActions.php: added comments
+
+2009-07-07 10:20  daniel.verner
+
+	* controllers/components/amf_auth.php: added comments
+
+2009-07-07 10:19  daniel.verner
+
+	* controllers/components/amf_auth.php: added comments
+
+2009-07-07 10:19  daniel.verner
+
+	* controllers/components/amf_auth.php,
+	  vendors/amfphp/core/cakeamf/app/CakeActions.php: added comments
+
+2009-07-07 09:49  daniel.verner
+
+	* controllers/components/amf_auth.php,
+	  vendors/amfphp/core/cakeamf/app/CakeActions.php: Auth exception
+	  handling
+
+2009-07-06 14:50  arnold.remete
+
+	* controllers/components/amf_auth.php,
+	  controllers/discovery_service_controller.php,
+	  vendors/amfphp/core/cakeamf/app/CakeActions.php:
+
+2009-06-26 14:00  daniel.verner
+
+	* readme.txt:
+
+2009-06-26 12:36  daniel.verner
+
+	* controllers/cpamf_controller.php, cpamf_app_controller.php:
+
+2009-06-25 14:11  daniel.verner
+
+	* controllers/cpamf_controller.php,
+	  controllers/discovery_service_controller.php,
+	  cpamf_app_controller.php:
+
+2009-05-20 10:45  daniel.verner
+
+	* controllers/cpamf_controller.php, cpamf_app_controller.php:
+
+2009-05-07 11:16  nandor.stanko
+
+	* vendors/amfphp/core/shared/adapters/zendrowsetAdapter.php:
+
+2009-04-09 12:40  daniel.verner
+
+	* vendors/amfphp/core/cakeamf/util/CakeMethodTable.php,
+	  vendors/amfphp/globals.php:
+
+2009-04-02 20:12  daniel.verner
+
+	* controllers/cpamf_controller.php:
+
+2009-04-02 15:04  daniel.verner
+
+	* readme.txt:
+
+2009-04-02 12:44  daniel.verner
+
+	* readme.txt:
+
+2009-04-02 12:44  daniel.verner
+
+	* readme.txt:
+
+2009-04-02 12:41  daniel.verner
+
+	* controllers/components/debug.php,
+	  controllers/cpamf_controller.php,
+	  controllers/discovery_service_controller.php,
+	  vendors/amfphp/cake_gateway.php,
+	  vendors/amfphp/core/cakeamf/app/CakeActions.php,
+	  vendors/amfphp/core/cakeamf/app/CakeGateway.php,
+	  vendors/amfphp/core/cakeamf/util/CakeMethodTable.php,
+	  vendors/amfphp/services/vo/ArrayCollection.php:
+
+2009-04-02 12:14  daniel.verner
+
+	* .project:
+
+2009-04-02 11:30  daniel.verner
+
+	* ., controllers, controllers/components,
+	  controllers/components/debug.php,
+	  controllers/cpamf_controller.php,
+	  controllers/discovery_service_controller.php,
+	  cpamf_app_controller.php, cpamf_app_model.php, licence.txt,
+	  readme.txt, vendors, vendors/amfphp, vendors/amfphp/browser,
+	  vendors/amfphp/browser/AC_OETags.js,
+	  vendors/amfphp/browser/history.js,
+	  vendors/amfphp/browser/history.swf,
+	  vendors/amfphp/browser/index.html,
+	  vendors/amfphp/browser/playerProductInstall.swf,
+	  vendors/amfphp/browser/servicebrowser.mxml,
+	  vendors/amfphp/browser/servicebrowser.swf,
+	  vendors/amfphp/browser/services-config.xml,
+	  vendors/amfphp/cake_gateway.php, vendors/amfphp/core,
+	  vendors/amfphp/core/amf, vendors/amfphp/core/amf/app,
+	  vendors/amfphp/core/amf/app/Actions.php,
+	  vendors/amfphp/core/amf/app/Filters.php,
+	  vendors/amfphp/core/amf/app/Gateway.php,
+	  vendors/amfphp/core/amf/io,
+	  vendors/amfphp/core/amf/io/AMFBaseDeserializer.php,
+	  vendors/amfphp/core/amf/io/AMFBaseSerializer.php,
+	  vendors/amfphp/core/amf/io/AMFDeserializer.php,
+	  vendors/amfphp/core/amf/io/AMFSerializer.php,
+	  vendors/amfphp/core/amf/readme.txt, vendors/amfphp/core/amf/util,
+	  vendors/amfphp/core/amf/util/AMFObject.php,
+	  vendors/amfphp/core/amf/util/DateWrapper.php,
+	  vendors/amfphp/core/amf/util/DescribeService.php,
+	  vendors/amfphp/core/amf/util/PageAbleResult.php,
+	  vendors/amfphp/core/amf/util/TraceHeader.php,
+	  vendors/amfphp/core/amf/util/WrapperClasses.php,
+	  vendors/amfphp/core/cakeamf, vendors/amfphp/core/cakeamf/app,
+	  vendors/amfphp/core/cakeamf/app/CakeActions.php,
+	  vendors/amfphp/core/cakeamf/app/CakeGateway.php,
+	  vendors/amfphp/core/cakeamf/util,
+	  vendors/amfphp/core/cakeamf/util/CakeMethodTable.php,
+	  vendors/amfphp/core/json, vendors/amfphp/core/json/app,
+	  vendors/amfphp/core/json/app/Actions.php,
+	  vendors/amfphp/core/json/app/Gateway.php,
+	  vendors/amfphp/core/shared, vendors/amfphp/core/shared/adapters,
+	  vendors/amfphp/core/shared/adapters/RecordSetAdapter.php,
+	  vendors/amfphp/core/shared/adapters/adodbAdapter.php,
+	  vendors/amfphp/core/shared/adapters/doctrineAdapter.php,
+	  vendors/amfphp/core/shared/adapters/fbsqlAdapter.php,
+	  vendors/amfphp/core/shared/adapters/informixAdapter.php,
+	  vendors/amfphp/core/shared/adapters/mssqlAdapter.php,
+	  vendors/amfphp/core/shared/adapters/mysqlAdapter.php,
+	  vendors/amfphp/core/shared/adapters/mysqliAdapter.php,
+	  vendors/amfphp/core/shared/adapters/mysqliobjectAdapter.php,
+	  vendors/amfphp/core/shared/adapters/oci8Adapter.php,
+	  vendors/amfphp/core/shared/adapters/odbcAdapter.php,
+	  vendors/amfphp/core/shared/adapters/pdoAdapter.php,
+	  vendors/amfphp/core/shared/adapters/peardbAdapter.php,
+	  vendors/amfphp/core/shared/adapters/pgsqlAdapter.php,
+	  vendors/amfphp/core/shared/adapters/plainrecordsetAdapter.php,
+	  vendors/amfphp/core/shared/adapters/sqliteAdapter.php,
+	  vendors/amfphp/core/shared/adapters/sqliteobjectAdapter.php,
+	  vendors/amfphp/core/shared/adapters/zendrowAdapter.php,
+	  vendors/amfphp/core/shared/adapters/zendrowsetAdapter.php,
+	  vendors/amfphp/core/shared/app,
+	  vendors/amfphp/core/shared/app/BasicActions.php,
+	  vendors/amfphp/core/shared/app/BasicGateway.php,
+	  vendors/amfphp/core/shared/app/Constants.php,
+	  vendors/amfphp/core/shared/app/Globals.php,
+	  vendors/amfphp/core/shared/app/php4Executive.php,
+	  vendors/amfphp/core/shared/app/php5Executive.php,
+	  vendors/amfphp/core/shared/exception,
+	  vendors/amfphp/core/shared/exception/MessageException.php,
+	  vendors/amfphp/core/shared/exception/php4Exception.php,
+	  vendors/amfphp/core/shared/exception/php5Exception.php,
+	  vendors/amfphp/core/shared/util,
+	  vendors/amfphp/core/shared/util/Authenticate.php,
+	  vendors/amfphp/core/shared/util/CharsetHandler.php,
+	  vendors/amfphp/core/shared/util/CompatPhp4.php,
+	  vendors/amfphp/core/shared/util/CompatPhp5.php,
+	  vendors/amfphp/core/shared/util/Headers.php,
+	  vendors/amfphp/core/shared/util/JSON.php,
+	  vendors/amfphp/core/shared/util/MessageBody.php,
+	  vendors/amfphp/core/shared/util/MessageHeader.php,
+	  vendors/amfphp/core/shared/util/MethodTable.php,
+	  vendors/amfphp/core/shared/util/NetDebug.php,
+	  vendors/amfphp/core/shared/util/functions.php,
+	  vendors/amfphp/core/xmlrpc, vendors/amfphp/core/xmlrpc/app,
+	  vendors/amfphp/core/xmlrpc/app/Actions.php,
+	  vendors/amfphp/core/xmlrpc/app/Gateway.php,
+	  vendors/amfphp/gateway.php, vendors/amfphp/globals.php,
+	  vendors/amfphp/json.php, vendors/amfphp/services,
+	  vendors/amfphp/services/amfphp,
+	  vendors/amfphp/services/amfphp/DiscoveryService.php,
+	  vendors/amfphp/services/place_services_here.txt,
+	  vendors/amfphp/services/vo,
+	  vendors/amfphp/services/vo/ArrayCollection.php,
+	  vendors/amfphp/xmlrpc.php, views, views/cpamf,
+	  views/cpamf/browser.ctp, views/layouts, views/layouts/blank.ctp:
+

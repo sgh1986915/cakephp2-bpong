@@ -1,0 +1,2 @@
+<div align="center">
+<div style="text-align:center; padding:15px; font-size:14px; width:700px; background-color:#fafafa; border:1px solid #ccc; margin-top:20px">You are already signed up to this <?php echo $model;?></div></div>

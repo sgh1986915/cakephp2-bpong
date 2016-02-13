@@ -1,0 +1,9 @@
+.DS_Store
+.buildpath
+.project
+.settings
+.vagrant
+.idea
+app/tmp/
+Plugin/DebugKit
+app/Config/sandbox.php

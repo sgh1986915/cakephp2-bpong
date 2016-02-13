@@ -1,0 +1,1 @@
+ALTER TABLE  `users` ADD  `qr_generated` DATETIME NULL DEFAULT NULL AFTER  `qr_image`

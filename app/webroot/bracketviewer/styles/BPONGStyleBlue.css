@@ -1,0 +1,57 @@
+/*
+This work is licensed under the Creative Commons Attribution 3.0 United States License. 
+To view a copy of this licence, visit http://creativecommons.org/licenses/by/3.0/us/ or 
+send a letter to Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.
+
+You must attribute this work to <a href="http://www.asfusion.com" >Nahuel Foronda</a> (with link)
+
+*/
+
+/*
+
+README:
+
+This style uses programatic skins. To compile, you need to add CSSPlus.swc to your library path
+
+*/
+
+/****************************************************************************************************************
+                                             MX COMPONENTS                                                      *
+*****************************************************************************************************************
+*/
+
+
+
+@namespace "library://ns.adobe.com/flex/mx";
+
+Button {
+	color: #000000;
+}
+DataGrid{
+	color: #000000;
+}
+TextInput {
+	color: #000000;
+}
+ComboBox { 
+	color: #000000;
+}
+Text { 
+	color: #FFFFFF;
+}
+FormHeading {
+	color: #FFFFFF;
+}
+FormItem {
+	color: #FFFFFF;
+}
+DateChooser {
+	color: #000000;
+}
+LinkButton {
+	fontSize: 12;
+	color: #BAD9ED;
+}
+global{
+	modalTransparency : .9;
+}

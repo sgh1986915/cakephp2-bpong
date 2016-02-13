@@ -1,0 +1,5 @@
+{
+    "require": {
+        "cakephp/debug_kit": "2.2.*"
+    }
+}

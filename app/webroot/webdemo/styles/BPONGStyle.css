@@ -1,0 +1,118 @@
+/*
+This work is licensed under the Creative Commons Attribution 3.0 United States License. 
+To view a copy of this licence, visit http://creativecommons.org/licenses/by/3.0/us/ or 
+send a letter to Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.
+
+You must attribute this work to <a href="http://www.asfusion.com" >Nahuel Foronda</a> (with link)
+
+*/
+
+/*
+
+README:
+
+This style uses programatic skins. To compile, you need to add CSSPlus.swc to your library path
+
+*/
+
+/****************************************************************************************************************
+                                             MX COMPONENTS                                                      *
+*****************************************************************************************************************
+*/
+
+
+
+@namespace "library://ns.adobe.com/flex/mx";
+@namespace s "library://ns.adobe.com/flex/spark";
+
+Button {
+	color: #000000;
+}
+s|Button {
+	color: #000000;
+}
+s|Label {
+	color: #000000;
+}
+DataGrid {
+	color: #000000;
+	alpha: 0.7;
+	roll-over-color: #aaaaaa;
+	selection-color: #999999;
+	alternating-item-colors: #FFFFFF,#EEEEEE;
+}
+TextInput {
+	color: #000000;
+}
+s|TextInput {
+	color: #000000;
+}
+ComboBox { 
+	color: #000000;
+}
+s|ComboBox {
+	color:#000000;
+}
+Text { 
+	color: #FFFFFF;
+}
+FormHeading {
+	color: #FFFFFF;
+}
+FormItem {
+	color: #FFFFFF;
+}
+DateChooser {
+	color: #000000;
+}
+Panel {
+	background-color: #606060;
+}
+LinkButton {
+	fontSize: 12;
+/*	color: #BAD9ED;*/
+	color: #FFFFFF;
+	text-decoration: underline;
+	padding-left:0;
+	padding-right:0;
+}
+.footerGradientBackground {
+	border-skin: ClassReference("border.SimpleGradientBorder");
+	fillColors: #2a2a2a, #181818;
+}
+.headerGradientBackground {
+	border-skin: ClassReference("border.SimpleGradientBorder");
+	fillColors: #272727, #272727;
+}
+.scrollBarStyle {
+	chromeColor: haloBlue;
+}
+	
+global{
+	modalTransparency : .9;
+}
+TextArea {
+	color: #000000;
+}
+Label {
+	color: white;
+}
+Alert {
+	messageStyleName: "alertMessage";
+	titleStyleName: "alertTitle";
+}
+RadioButton {
+	text-roll-over-color:white;
+	text-selected-color:white;
+	color: white;
+}
+.alertMessage {
+	color: white;
+}
+.alertTitle {
+	color: black;
+}
+CheckBox {
+	color: white;
+	text-roll-over-color:white;
+}

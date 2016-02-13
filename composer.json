@@ -1,0 +1,11 @@
+{
+    "name": "bpong-site",
+    "require": {
+        "cakephp/cakephp": "2.6.*",
+        "cakephp/debug_kit": "2.2.*",
+        "squizlabs/php_codesniffer": "*"
+    },
+    "config": {
+        "vendor-dir": "Vendor/"
+    }
+}

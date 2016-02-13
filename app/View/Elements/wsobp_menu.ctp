@@ -1,0 +1,6 @@
+<ul id='wsowp_menu' class="wsowp_ul">
+	<li class="wsowp_li li_first"><a class="wsowp_menu_about <?php if ($page == 'about'):?>selected<?php endif;?>" href="/wsobp"><span class="wsowp_span_title">About</span><br/><span class="wsowp_help_txt">Everything you need to know</span></a></li>
+	<li class="wsowp_li"><a class="wsowp_menu_pricing <?php if ($page == 'pricing'):?>selected<?php endif;?>" href="/wsobp/pricing"><span class="wsowp_span_title">Pricing</span><br/><span class="wsowp_help_txt">Packages and accomodations</span></a></li>
+	<li class="wsowp_li"><a class="wsowp_menu_gallery <?php if ($page == 'gallery'):?>selected<?php endif;?>" href="/wsobp/gallery"><span class="wsowp_span_title">Gallery</span><br/><span class="wsowp_help_txt">Media from past World Series</span></a></li>
+	<li class="wsowp_li li_last"><a class="wsowp_menu_signup" href="<?php echo WSOBP_SIGNUP_LINK; ?>"><span class="wsowp_span_title">Sign Up</span><br/><span class="wsowp_help_txt">Reserve your spot</span></a></li>
+</ul>

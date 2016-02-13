@@ -1,0 +1,1 @@
+<?php echo $this->element('team_information'); ?>

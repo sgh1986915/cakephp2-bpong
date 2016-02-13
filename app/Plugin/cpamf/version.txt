@@ -1,0 +1,13 @@
+/**
+ * Version
+ *
+ * @authors Daniel Verner, Arnold Remete
+ * @license
+ * @copyrightcpamf (c) 2009 carrotplant.com
+ * @package cpamf
+ * @subpackage 
+ * @version $Id: version.txt 103 2009-07-08 12:41:21Z daniel.verner $
+ *
+ */
+
+0.12

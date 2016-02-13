@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="adodbAdapter.php" server="bpong.com" local="129411502680000000" remote="129411502680000000" />
+<file name="doctrineAdapter.php" server="bpong.com" local="129411502680000000" remote="129411502680000000" />
+<file name="fbsqlAdapter.php" server="bpong.com" local="129411502680000000" remote="129411502680000000" />
+<file name="informixAdapter.php" server="bpong.com" local="129411502680000000" remote="129411502680000000" />
+<file name="mssqlAdapter.php" server="bpong.com" local="129411502690000000" remote="129411502690000000" />
+<file name="mysqlAdapter.php" server="bpong.com" local="129411502690000000" remote="129411502690000000" />
+<file name="mysqliAdapter.php" server="bpong.com" local="129411502690000000" remote="129411502690000000" />
+<file name="mysqliobjectAdapter.php" server="bpong.com" local="129411502700000000" remote="129411502700000000" />
+<file name="oci8Adapter.php" server="bpong.com" local="129411502700000000" remote="129411502700000000" />
+<file name="odbcAdapter.php" server="bpong.com" local="129411502700000000" remote="129411502700000000" />
+<file name="pdoAdapter.php" server="bpong.com" local="129411502700000000" remote="129411502700000000" />
+<file name="peardbAdapter.php" server="bpong.com" local="129411502710000000" remote="129411502710000000" />
+<file name="pgsqlAdapter.php" server="bpong.com" local="129411502710000000" remote="129411502710000000" />
+<file name="plainrecordsetAdapter.php" server="bpong.com" local="129411502710000000" remote="129411502710000000" />
+<file name="RecordSetAdapter.php" server="bpong.com" local="129411502720000000" remote="129411502720000000" />
+<file name="sqliteAdapter.php" server="bpong.com" local="129411502720000000" remote="129411502720000000" />
+<file name="sqliteobjectAdapter.php" server="bpong.com" local="129411502720000000" remote="129411502720000000" />
+<file name="zendrowAdapter.php" server="bpong.com" local="129411502730000000" remote="129411502730000000" />
+<file name="zendrowsetAdapter.php" server="bpong.com" local="129411502730000000" remote="129411502730000000" />
+</dwsync>

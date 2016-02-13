@@ -1,0 +1,1 @@
+<span class="st_sharethis" displayText="ShareThis" <?php if (!empty($shareUrl)):?>st_url="<?php echo $shareUrl;?>"<?php endif;?> <?php if (!empty($shareTitle)):?>st_title="<?php echo $shareTitle;?>"<?php endif;?>></span>

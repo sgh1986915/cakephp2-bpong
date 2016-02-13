@@ -1,0 +1,2 @@
+<br />
+<?php echo $this->Html->link('<img src="'.STATIC_BPONG.'/img/del_room.gif" alt="Delete room" title="Delete room"/>', array('controller' => 'rooms', 'action' => 'delete', $signupID ), array('escape'=>false));?>

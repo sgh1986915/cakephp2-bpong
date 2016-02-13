@@ -1,0 +1,1 @@
+ALTER TABLE  `venues` ADD  `userscount` INT( 11 ) NOT NULL DEFAULT  '0';

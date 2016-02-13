@@ -1,0 +1,1 @@
+<?php echo $this->Form->input('Status.id',array('type' => 'select','label'=>false,'options' => $statuses));?>

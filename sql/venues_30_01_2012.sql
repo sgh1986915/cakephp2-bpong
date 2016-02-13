@@ -1,0 +1,1 @@
+ALTER TABLE  `venues` ADD  `nbplstartday` DATE NULL AFTER  `nbplday` ;

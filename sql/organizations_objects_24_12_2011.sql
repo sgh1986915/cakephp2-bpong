@@ -1,0 +1,1 @@
+ALTER TABLE  `organizations_objects` ADD  `is_deleted` TINYINT( 1 ) NOT NULL

@@ -1,0 +1,2 @@
+<?php echo $number;?>. <?php echo $this->Form->input('Nbpldays.new.' . $number . '.nbplday', array('label' => false, 'div' => false, 'type' => 'select', 'options' => array('0' => 'Select day') + Configure::read('Weekdays')));?>
+ &nbsp;—&nbsp; <?php echo $this->Form->input('Nbpldays.new.' . $number . '.nbplstarttime', array('label' => false, 'div' => false, 'type' => 'time'));?><br/><br/>

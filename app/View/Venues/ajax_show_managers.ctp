@@ -1,0 +1,1 @@
+<?php echo $this->element('event/managers_list');?>

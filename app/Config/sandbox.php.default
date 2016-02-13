@@ -1,0 +1,49 @@
+<?php
+/**
+ * This is the default configuration file for the sandbox.
+ * This file should be copied, renamed to 'sandbox.php', and modified per environment needs
+ */
+
+$config = array(
+    'Sandbox' => array(
+        'debug' => 0,
+        'site' => array(
+            'email' => '',
+            'name' => '',
+            'url' => ''
+        )
+    )
+);
+
+define('SANDBOX_DB_HOST', '');
+define('SANDBOX_DB_NAME', '');
+define('SANDBOX_DB_USERNAME', '');
+define('SANDBOX_DB_PASSWORD', '');
+
+define('LIVE_WEBSITE', false);
+define('SIGNUP_AUTH_NET_TEST_LOGIN_ID', '6zz6m5N4Et');
+define('SIGNUP_AUTH_NET_TEST_TRAN_KEY', '9V9wUv6Yd92t27t5');
+define('SIGNUP_AUTH_NET_TEST_MD5HASH', 'test');
+
+define('SIGNUP_AUTH_NET_LOGIN_ID', '6zz6m5N4Et');
+define('SIGNUP_AUTH_NET_TRAN_KEY', '9V9wUv6Yd92t27t5');
+define('SIGNUP_AUTH_NET_MD5HASH', 'live');
+
+define('STORE_AUTH_NET_LOGIN_ID', '9Xp6pb3ZT');
+define('STORE_AUTH_NET_TRAN_KEY', '2G4Kb7s52K4De9k6');
+define('STORE_AUTH_NET_MD5HASH', 'live');
+define("AUTHORIZENET_MD5_SETTING", ''); // !!!!!!!!!
+
+define('SIGNUP_AUTH_NET_TEST_MODE', true);
+define('STORE_AUTH_NET_TEST_MODE', true);
+
+define('DEVELOPER_EMAIL', 'odikusar@shakuro.com');
+
+define('FEDEX_TEST_MODE', false);
+define('WEBGISTIX_TEST_MODE', true);
+define('WAREHOUSE_TEST_MODE', true);
+
+define('GOOGLE_MAP_KEY', 'ABQIAAAANtggiEeaCBAI1wEXPXIK_BSr4vXAHm5-h-kf6e1fo3F3y-PMVRSCnljZpQRYeiS0tXac4snfZtQCpg');
+define ('STATIC_BPONG',"http://".$_SERVER['HTTP_HOST']);
+define('SECURE_SERVER',"http://" . $_SERVER['HTTP_HOST'] );
+define('MAIN_SERVER',  "http://" . $_SERVER['HTTP_HOST'] );
